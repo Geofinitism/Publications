@@ -102,11 +102,6 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 
 ---
 
-## Monographs
-
-*(none yet — pending)*
-
----
 
 ## Bridges
 
@@ -114,6 +109,30 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 
 ---
 
+| ATT_66 | On the Finite Sphere: A History of Measurement from Cusa to Nexils | [PDF](essays/ATT_66_on_the_finite_sphere.pdf) | [Summary](essays/ATT_66_on_the_finite_sphere_summary.md) | [Lesson](essays/ATT_66_on_the_finite_sphere_lesson.md) | ✓ |
+| ATT_67 | From Napier's Bones to Nexils: Logarithms in Finite Symbolic Mechanics | [PDF](essays/ATT_67_fsm_logarithms.pdf) | [Summary](essays/ATT_67_fsm_logarithms_summary.md) | [Lesson](essays/ATT_67_fsm_logarithms_lesson.md) | ✓ |
+| ATT_68 | Spherical Unity: A Geofinitist Lens | [PDF](essays/ATT_68_spherical_unity.pdf) | [Summary](essays/ATT_68_spherical_unity_summary.md) | [Lesson](essays/ATT_68_spherical_unity_lesson.md) | ✓ |
+| ATT_69 | FSM: The Foundations of Linear Mathematics | [PDF](essays/ATT_69_fsm_linear_mathematics.pdf) | [Summary](essays/ATT_69_fsm_linear_mathematics_summary.md) | [Lesson](essays/ATT_69_fsm_linear_mathematics_lesson.md) | ✓ |
+| ATT_70 | On the Circle as Procedure | [PDF](essays/ATT_70_fsm_circle_as_procedure.pdf) | [Summary](essays/ATT_70_fsm_circle_as_procedure_summary.md) | [Lesson](essays/ATT_70_fsm_circle_as_procedure_lesson.md) | ✓ |
+| ATT_71 | Alphonic Projection Layers: A Geofinite Reframing of the Ket as a Projection Policy | [PDF](essays/ATT_71_fsm_projection_layer.pdf) | [Summary](essays/ATT_71_fsm_projection_layer_summary.md) | [Lesson](essays/ATT_71_fsm_projection_layer_lesson.md) | ✓ |
+| ATT_72 | A Geofinite Replacement of the Ket and Heaviside Function | [PDF](essays/ATT_72_fsm_heaviside_ket.pdf) | [Summary](essays/ATT_72_fsm_heaviside_ket_summary.md) | [Lesson](essays/ATT_72_fsm_heaviside_ket_lesson.md) | ✓ |
+| ATT_73 | The Key is the Geometry: A Geofinite Reframing of Cryptographic Mapping and Symbolic Reconstruction | [PDF](essays/ATT_73_fsm_cryptography.pdf) | [Summary](essays/ATT_73_fsm_cryptography_summary.md) | [Lesson](essays/ATT_73_fsm_cryptography_lesson.md) | ✓ |
+| ATT_74 | The Dynexil: A Geofinite Replacement for the Ket as a Local Dynamical Measurement Descriptor | [PDF](essays/ATT_74_fsm_dynexil.pdf) | [Summary](essays/ATT_74_fsm_dynexil_summary.md) | [Lesson](essays/ATT_74_fsm_dynexil_lesson.md) | ✓ |
+| ATT_75 | On the Charge-Mass, Interaction Identity and Fine Structure Constant: A Geofinite Reading | [PDF](essays/ATT_75_fsm_charge_mass.pdf) | [Summary](essays/ATT_75_fsm_charge_mass_summary.md) | [Lesson](essays/ATT_75_fsm_charge_mass_lesson.md) | ✓ |
+| ATT_76 | Semantic Coupling to Observation: Protein Binding, LIGO, and the Conversion of Dynamic Measurement into Fixed Symbols | [PDF](essays/ATT_76_semantic_coupling.pdf) | [Summary](essays/ATT_76_semantic_coupling_summary.md) | [Lesson](essays/ATT_76_semantic_coupling_lesson.md) | ✓ |
+| ATT_77 | From Generon to Meaning: Compression, Boundary, and the Dynamics of Finite Symbols | [PDF](essays/ATT_77_generon_to_meaning.pdf) | [Summary](essays/ATT_77_generon_to_meaning_summary.md) | [Lesson](essays/ATT_77_generon_to_meaning_lesson.md) | ✓ |
+| ATT_78 | From External-Basin Physics to Finite Interaction Geometry | [PDF](essays/ATT_78_geofinitism-and-physics.pdf) | [Summary](essays/ATT_78_geofinitism-and-physics_summary.md) | [Lesson](essays/ATT_78_geofinitism-and-physics_lesson.md) | ✓ |
+| ATT_79 | Commitment, Consensus, and Admissibility: The Grand Corpus, Geofinitism, and the Symbolic Separatrix | [PDF](essays/ATT_79_geofinitism_comparative_philosophy.pdf) | [Summary](essays/ATT_79_geofinitism_comparative_philosophy_summary.md) | [Lesson](essays/ATT_79_geofinitism_comparative_philosophy_lesson.md) | ✓ |
+| ATT_80 | Semantic Boundary Markers in Geofinitism | [PDF](essays/ATT_80_semantic_boundary_markers.pdf) | [Summary](essays/ATT_80_semantic_boundary_markers_summary.md) | [Lesson](essays/ATT_80_semantic_boundary_markers_lesson.md) | ✓ |
+
+
+## Monographs
+
+| ID | Title | PDF | Summary | Lesson | Here |
+|---|---|---|---|---|---|
+| M01 | Mathematics as Lenses: Geofinitism and the Reconstruction of Discrete Dynamical Structure | [PDF](monographs/M01_mathematics_lenses.pdf) | [Summary](monographs/M01_mathematics_lenses_summary.md) | [Lesson](monographs/M01_mathematics_lenses_lesson.md) | ✓ |
+| M02 | The Finite-Symbol Embedding Theorem: Phase Space Reconstruction for Finite Symbolic Dynamical Systems | [PDF](monographs/M02_fset_theorem.pdf) | [Summary](monographs/M02_fset_theorem_summary.md) | [Lesson](monographs/M02_fset_theorem_lesson.md) | ✓ |
+| M03 | A Nonlinear Dynamical Reconstruction of the Collatz Process via Delay Embedding | [PDF](monographs/M03_collatz_reconstruction.pdf) | [Summary](monographs/M03_collatz_reconstruction_summary.md) | [Lesson](monographs/M03_collatz_reconstruction_lesson.md) | ✓ |
 ## Stubs
 
 *(none yet)*
