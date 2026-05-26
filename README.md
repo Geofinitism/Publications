@@ -212,6 +212,8 @@ Extended academic monographs — formal research papers with abstracts, numbered
 | M01 | [Mathematics as Lenses: Geofinitism and the Reconstruction of Discrete Dynamical Structure](./monographs/M01_mathematics_lenses_summary.md) | M01 | P1, P2, P3, P4, P5 | Stable | 2026-03-30 |
 | M02 | [The Finite-Symbol Embedding Theorem: Phase Space Reconstruction for Finite Symbolic Dynamical Systems](./monographs/M02_fset_theorem_summary.md) | M02 | P1, P2, P3, P5 | Stable | 2026-03-30 |
 | M03 | [A Nonlinear Dynamical Reconstruction of the Collatz Process via Delay Embedding](./monographs/M03_collatz_reconstruction_summary.md) | M03 | P1, P2, P3, P5 | Stable | 2026-03-30 |
+| M04 | [Finite Tractus: The Hidden Geometry of Language and Thought (Part I: Foundations)](./monographs/M04_finite_tractus_foundations_summary.md) | M04-L | P1, P2, P3, P4 | Stable | 2025 |
+| M05 | [The FSM Conjectures: On Real Numbers, Measurement, and the Silent Promotion of Symbolic Games](./monographs/M05_fsm_conjectures_summary.md) | M05-L | P2, P4, P5 | Stable | 2026 |
 
 ### Monograph Lesson Index
 
@@ -220,3 +222,5 @@ Extended academic monographs — formal research papers with abstracts, numbered
 | [M01-L](monographs/M01_mathematics_lenses_lesson.md) | Mathematics as Lenses | Advanced | ATT_08 (essential), ATT_78 (strongly rec.), ATT_79 (strongly rec.) |
 | [M02-L](monographs/M02_fset_theorem_lesson.md) | The Finite-Symbol Embedding Theorem | Advanced | M01 (essential), ATT_08 (strongly rec.), ATT_78 (strongly rec.) |
 | [M03-L](monographs/M03_collatz_reconstruction_lesson.md) | Empirical Reconstruction of the Collatz Attractor | Advanced | M01 (essential), M02 (essential) |
+| [M04-L](monographs/M04_finite_tractus_foundations_lesson.md) | The Manifold Hijack: Language, Geometry, and Machine Cognition | Advanced | M01 (essential), M02 (essential), M03 (essential) |
+| [M05-L](monographs/M05_fsm_conjectures_lesson.md) | The FSM Conjectures: Silent Promotion and the Missing Measurement Axioms | Advanced | ATT_08 (essential), ATT_28 (essential), M01 (recommended) |

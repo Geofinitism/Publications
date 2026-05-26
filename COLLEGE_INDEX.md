@@ -3,7 +3,7 @@
 **College:** Attralucian Studies  
 **Organisation:** School of Geofinitism  
 **Last updated:** 2026-05-14  
-**Total papers:** 10 (0 primary, 10 secondary) | **Total essays:** 64+ (all primary — this college is canonical for all essays)
+**Total papers:** 11 (0 primary, 11 secondary) | **Total essays:** 64+ (all primary — this college is canonical for all essays)
 
 This file is the complete content registry for the College of Attralucian Studies. Every document in the college is listed with direct links to all three associated files. Use `README.md` for mission context, curated reading orders, and key concept tables.
 
@@ -27,6 +27,7 @@ All papers have their canonical summary and lesson in either `college-machine-in
 | P08 | Autoregression Is Not Takens | [PDF](papers/P08_autoregression_not_takens.pdf) | [Summary](papers/P08_autoregression_not_takens_summary.md) | [Lesson](papers/P08_autoregression_not_takens_lesson.md) | — |
 | P09 | Static Vector Insufficiency for Natural Language Meaning | [PDF](papers/P09_static_vector_insufficiency.pdf) | [Summary](papers/P09_static_vector_insufficiency_summary.md) | [Lesson](papers/P09_static_vector_insufficiency_lesson.md) | — |
 | P10 | From Formula to Process: Bridging ML Mathematics and Nonlinear Dynamics | [PDF](papers/P10-formula-to-process.pdf) | [Summary](papers/P10_formula_to_process_summary.md) | [Lesson](papers/P10_formula_to_process_lesson.md) | — |
+| P11 | Takens' Theorem Applies to Discrete Symbol Sequences | [PDF](papers/P11_takens_and_symbols.pdf) | [Summary](papers/P11_takens_and_symbols_summary.md) | [Lesson](papers/P11_takens_and_symbols_lesson.md) | — |
 
 ---
 
@@ -133,6 +134,8 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | M01 | Mathematics as Lenses: Geofinitism and the Reconstruction of Discrete Dynamical Structure | [PDF](monographs/M01_mathematics_lenses.pdf) | [Summary](monographs/M01_mathematics_lenses_summary.md) | [Lesson](monographs/M01_mathematics_lenses_lesson.md) | ✓ |
 | M02 | The Finite-Symbol Embedding Theorem: Phase Space Reconstruction for Finite Symbolic Dynamical Systems | [PDF](monographs/M02_fset_theorem.pdf) | [Summary](monographs/M02_fset_theorem_summary.md) | [Lesson](monographs/M02_fset_theorem_lesson.md) | ✓ |
 | M03 | A Nonlinear Dynamical Reconstruction of the Collatz Process via Delay Embedding | [PDF](monographs/M03_collatz_reconstruction.pdf) | [Summary](monographs/M03_collatz_reconstruction_summary.md) | [Lesson](monographs/M03_collatz_reconstruction_lesson.md) | ✓ |
+| M04 | Finite Tractus: The Hidden Geometry of Language and Thought (Part I: Foundations) | [PDF](monographs/M04_finite_tractus_foundations.pdf) | [Summary](monographs/M04_finite_tractus_foundations_summary.md) | [Lesson](monographs/M04_finite_tractus_foundations_lesson.md) | ✓ |
+| M05 | The FSM Conjectures: On Real Numbers, Measurement, and the Silent Promotion of Symbolic Games | [PDF](monographs/M05_fsm_conjectures.pdf) | [Summary](monographs/M05_fsm_conjectures_summary.md) | [Lesson](monographs/M05_fsm_conjectures_lesson.md) | ✓ |
 ## Stubs
 
 *(none yet)*
