@@ -50,7 +50,7 @@ The College of Attralucian Studies is the creative and exploratory wing of the S
 | 35 | [Interaction, Embedding, and the Cost of Representation: An Alphonic Perspective on Spectral Measurement and Redshift](./essays/ATT_35_generonic_redshift_summary.md) | ATT_135 | P1, P5 (primary), P2, P3, P4 | Stable *(developmental — see note)* | 2026-05-09 |
 | 36 | [Geofinitism: From Incompleteness to Uncertainty](./essays/ATT_36_incompleteness_to_uncertainty_summary.md) | ATT_136 | P2, P5 (primary), P1, P4, P3 | Stable | 2026-05-09 |
 | 37 | [The Generonic Boundary of Explanation: On the Role and Limits of "Why" in Measurement-Grounded Systems](./essays/ATT_37_limits_on_why_summary.md) | ATT_137 | P2, P5 (primary), P4, P1, P3 | Stable | 2026-05-09 |
-| 38 | *(The Generonic Boundary — thesis-format; deferred for separate processing)* | ATT_138 | TBD | TBD | — |
+| 38 | [The Generonic Boundary: Distance, Compression, and Finite Symbolic Representation](./essays/ATT_38_generonic_boundary_summary.md) | ATT_138 | P5, P2 (primary), P1, P3, P4 | Stable | 2026-05-28 |
 | 39 | [The P vs NP Problem: A Geofinitist Lens](./essays/ATT_39_p_vs_np_summary.md) | ATT_139 | P2, P1 (primary), P5, P3, P4 | Stable | 2026-05-09 |
 | 40 | [The Church–Turing Thesis: A Geofinitist Reinterpretation](./essays/ATT_40_church_turing_summary.md) | ATT_140 | P2, P5 (primary), P1, P3, P4 | Stable | 2026-05-09 |
 | 41 | [Kolmogorov Complexity: A Geofinitist Reinterpretation](./essays/ATT_41_kolmogorov_complexity_summary.md) | ATT_141 | P2, P5 (primary), P4, P3, P1 | Stable | 2026-05-09 |
@@ -93,6 +93,7 @@ The College of Attralucian Studies is the creative and exploratory wing of the S
 | 78 | [From External-Basin Physics to Finite Interaction Geometry](./essays/ATT_78_geofinitism-and-physics_summary.md) | ATT_178 | P1, P2, P3 (primary); P4, P5 | Stable | 2026-05-21 |
 | 79 | [Commitment, Consensus, and Admissibility: The Grand Corpus, Geofinitism, and the Symbolic Separatrix](./essays/ATT_79_geofinitism_comparative_philosophy_summary.md) | ATT_179 | P1, P4 (primary); P2 | Stable | 2026-05-21 |
 | 80 | [Semantic Boundary Markers in Geofinitism](./essays/ATT_80_semantic_boundary_markers_summary.md) | ATT_180 | P4, P2 (primary); P1 | Stable | 2026-05-21 |
+| 81 | [Introducing the Functional Symbolic Trajectory: Words, Compression, and the Flow of Meaning in Finite Language](./essays/ATT_81_functional_symbolic_trajectories_summary.md) | ATT_181 | P3, P1 (primary), P2, P5, P4 | Stable | 2026 |
 
 ---
 
@@ -137,7 +138,7 @@ The College of Attralucian Studies is the creative and exploratory wing of the S
 | [ATT_35-L](essays/ATT_35_generonic_redshift_lesson.md) | Interaction, Embedding, and the Cost of Representation: An Alphonic Perspective on Spectral Measurement and Redshift | Advanced | ATT_113, ATT_123, ATT_131, ATT_110 |
 | [ATT_36-L](essays/ATT_36_incompleteness_to_uncertainty_lesson.md) | The Geofinite Incompleteness Theorem: From Gödel to Measured Indeterminacy | Advanced | ATT_108, ATT_127, ATT_128 + Gödel background |
 | [ATT_37-L](essays/ATT_37_limits_on_why_lesson.md) | The Generonic Boundary of Explanation: On the Role and Limits of "Why" | Intermediate / Advanced | ATT_108, ATT_123, ATT_128, ATT_136 (rec.) |
-| ATT_138 | *(stub — thesis-format essay, deferred)* | TBD | TBD |
+| [ATT_138](essays/ATT_38_generonic_boundary_lesson.md) | The Generonic Boundary: Distance, Compression, and Finite Symbolic Representation | Advanced | ATT_108, ATT_128, ATT_123 (rec.); ATT_137 companion |
 | [ATT_39-L](essays/ATT_39_p_vs_np_lesson.md) | The P vs NP Problem: A Geofinitist Lens | Advanced | ATT_108, ATT_136 (rec.) + complexity background |
 | [ATT_40-L](essays/ATT_40_church_turing_lesson.md) | The Church–Turing Thesis: A Geofinitist Reinterpretation | Advanced | ATT_108, ATT_128, ATT_139 (rec.) + computability background |
 | [ATT_41-L](essays/ATT_41_kolmogorov_complexity_lesson.md) | Kolmogorov Complexity: A Geofinitist Reinterpretation | Advanced | ATT_108, ATT_136, ATT_139, ATT_140 (rec.) + information theory background |
@@ -179,6 +180,7 @@ The College of Attralucian Studies is the creative and exploratory wing of the S
 | [ATT_78-L](essays/ATT_78_geofinitism-and-physics_lesson.md) | From External-Basin Physics to Finite Interaction Geometry | Advanced | ATT_08 (essential), ATT_74 (essential), ATT_75 (strongly rec.), ATT_77 (strongly rec.) |
 | [ATT_79-L](essays/ATT_79_geofinitism_comparative_philosophy_lesson.md) | Commitment, Consensus, and Admissibility | Introductory / Philosophical | ATT_08 (recommended), ATT_77 (recommended), ATT_78 (helpful) |
 | [ATT_80-L](essays/ATT_80_semantic_boundary_markers_lesson.md) | Semantic Boundary Markers | Introductory / Applied | ATT_02 (essential), ATT_03 (essential), ATT_79 (recommended) |
+| [ATT_181](essays/ATT_81_functional_symbolic_trajectories_lesson.md) | Introducing the Functional Symbolic Trajectory | Introductory / Intermediate | None required; ATT_08 and ATT_49 recommended |
 
 
 ---
@@ -214,6 +216,9 @@ Extended academic monographs — formal research papers with abstracts, numbered
 | M03 | [A Nonlinear Dynamical Reconstruction of the Collatz Process via Delay Embedding](./monographs/M03_collatz_reconstruction_summary.md) | M03 | P1, P2, P3, P5 | Stable | 2026-03-30 |
 | M04 | [Finite Tractus: The Hidden Geometry of Language and Thought (Part I: Foundations)](./monographs/M04_finite_tractus_foundations_summary.md) | M04-L | P1, P2, P3, P4 | Stable | 2025 |
 | M05 | [The FSM Conjectures: On Real Numbers, Measurement, and the Silent Promotion of Symbolic Games](./monographs/M05_fsm_conjectures_summary.md) | M05-L | P2, P4, P5 | Stable | 2026 |
+| M06 | [FSM Information Theory: Symbolic Containment and Functional Trajectories](./monographs/M06_fsm_information_theory_summary.md) | M06-L | P5, P2 (primary), P1, P3, P4 | Working draft | 2026-05-31 |
+| M07 | [The Principia Geometrica: Finite Symbolic Mechanics](./monographs/M07_fsm_principia_geo_1_summary.md) | M07-L | P5, P2, P1 (primary), P3, P4 | Stable | 2026 |
+| M08 | [The Principia Geometrica: Finite Symbolic Mechanics II — Measured Structures](./monographs/M08_fsm_principia_geo_2_summary.md) | M08-L | P5, P2, P1 (primary), P3, P4 | Working draft | 2026-05 |
 
 ### Monograph Lesson Index
 
@@ -224,3 +229,6 @@ Extended academic monographs — formal research papers with abstracts, numbered
 | [M03-L](monographs/M03_collatz_reconstruction_lesson.md) | Empirical Reconstruction of the Collatz Attractor | Advanced | M01 (essential), M02 (essential) |
 | [M04-L](monographs/M04_finite_tractus_foundations_lesson.md) | The Manifold Hijack: Language, Geometry, and Machine Cognition | Advanced | M01 (essential), M02 (essential), M03 (essential) |
 | [M05-L](monographs/M05_fsm_conjectures_lesson.md) | The FSM Conjectures: Silent Promotion and the Missing Measurement Axioms | Advanced | ATT_08 (essential), ATT_28 (essential), M01 (recommended) |
+| [M06-L](monographs/M06_fsm_information_theory_lesson.md) | FSM Information Theory: Symbolic Containment and Functional Trajectories | Intermediate / Advanced | ATT_08 (essential), M05 (recommended) |
+| [M07-L](monographs/M07_fsm_principia_geo_1_lesson.md) | The Principia Geometrica: Finite Symbolic Mechanics | Advanced | ATT_08 (essential), ATT_28 (essential), M05 (strongly rec.), ATT_38 (strongly rec.) |
+| [M08-L](monographs/M08_fsm_principia_geo_2_lesson.md) | The Principia Geometrica II: Measured Structures | Advanced | M07-L (essential), M02-L (strongly rec.) |

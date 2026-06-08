@@ -28,6 +28,9 @@ All papers have their canonical summary and lesson in either `college-machine-in
 | P09 | Static Vector Insufficiency for Natural Language Meaning | [PDF](papers/P09_static_vector_insufficiency.pdf) | [Summary](papers/P09_static_vector_insufficiency_summary.md) | [Lesson](papers/P09_static_vector_insufficiency_lesson.md) | — |
 | P10 | From Formula to Process: Bridging ML Mathematics and Nonlinear Dynamics | [PDF](papers/P10-formula-to-process.pdf) | [Summary](papers/P10_formula_to_process_summary.md) | [Lesson](papers/P10_formula_to_process_lesson.md) | — |
 | P11 | Takens' Theorem Applies to Discrete Symbol Sequences | [PDF](papers/P11_takens_and_symbols.pdf) | [Summary](papers/P11_takens_and_symbols_summary.md) | [Lesson](papers/P11_takens_and_symbols_lesson.md) | — |
+| P12 | Trajectory-Based Computation: Binary Logic, Ket Evolution, and Finite Symbolic Map Engines | [PDF](papers/P12_trajectory_based_computation.pdf) | [Summary](papers/P12_trajectory_based_computation_summary.md) | [Lesson](papers/P12_trajectory_based_computation_lesson.md) | — |
+| P13 | On Finite Symbolic Instantiation Drag: Translation, Entropy, Energy, and the Cost of Symbolic Model Formation | [PDF](papers/P13_finite_symbolic_drag.pdf) | [Summary](papers/P13_finite_symbolic_drag_summary.md) | [Lesson](papers/P13_finite_symbolic_drag_lesson.md) | — |
+| P14 | Admissibility, Finite Symbols, and the Limits of Measurement | [PDF](papers/P14_measurement_limits.pdf) | [Summary](papers/P14_measurement_limits_summary.md) | [Lesson](papers/P14_measurement_limits_lesson.md) | — |
 
 ---
 
@@ -71,6 +74,7 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | ATT_35 | The Generonic Redshift | [PDF](essays/ATT_35_generonic_redshift.pdf) | [Summary](essays/ATT_35_generonic_redshift_summary.md) | [Lesson](essays/ATT_35_generonic_redshift_lesson.md) | ✓ |
 | ATT_36 | From Incompleteness to Uncertainty | [PDF](essays/ATT_36_incompleteness_to_uncertainty.pdf) | [Summary](essays/ATT_36_incompleteness_to_uncertainty_summary.md) | [Lesson](essays/ATT_36_incompleteness_to_uncertainty_lesson.md) | ✓ |
 | ATT_37 | The Limits on Why | [PDF](essays/ATT_37_limits_on_why.pdf) | [Summary](essays/ATT_37_limits_on_why_summary.md) | [Lesson](essays/ATT_37_limits_on_why_lesson.md) | ✓ |
+| ATT_38 | [The Generonic Boundary: Distance, Compression, and Finite Symbolic Representation](./essays/ATT_38_generonic_boundary_summary.md) | ATT_138 | P5, P2 (primary), P1, P3, P4 | Stable | 2026-05-28 | ✓ |
 | ATT_39 | P vs NP | [PDF](essays/ATT_39_p_vs_np.pdf) | [Summary](essays/ATT_39_p_vs_np_summary.md) | [Lesson](essays/ATT_39_p_vs_np_lesson.md) | ✓ |
 | ATT_40 | The Church-Turing Thesis | [PDF](essays/ATT_40_church_turing.pdf) | [Summary](essays/ATT_40_church_turing_summary.md) | [Lesson](essays/ATT_40_church_turing_lesson.md) | ✓ |
 | ATT_41 | Kolmogorov Complexity | [PDF](essays/ATT_41_kolmogorov_complexity.pdf) | [Summary](essays/ATT_41_kolmogorov_complexity_summary.md) | [Lesson](essays/ATT_41_kolmogorov_complexity_lesson.md) | ✓ |
@@ -99,7 +103,7 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | ATT_64 | What Is a Number? | [PDF](essays/ATT_64_what_is_a_number.pdf) | [Summary](essays/ATT_64_what_is_a_number_summary.md) | [Lesson](essays/ATT_64_what_is_a_number_lesson.md) | ✓ |
 | ATT_65 | Mathematics as a Stabilised Sub-Regime of Language Dynamics | [PDF](essays/ATT_65_mathematics_stabilised_sub_regime.pdf) | [Summary](essays/ATT_65_mathematics_stabilised_sub_regime_summary.md) | [Lesson](essays/ATT_65_mathematics_stabilised_sub_regime_lesson.md) | ✓ |
 
-**Missing essay slots:** ATT_20, ATT_32, ATT_33, ATT_38 — not yet located.
+**Missing essay slots:** ATT_20, ATT_32, ATT_33 — not yet located.
 
 ---
 
@@ -125,6 +129,7 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | ATT_78 | From External-Basin Physics to Finite Interaction Geometry | [PDF](essays/ATT_78_geofinitism-and-physics.pdf) | [Summary](essays/ATT_78_geofinitism-and-physics_summary.md) | [Lesson](essays/ATT_78_geofinitism-and-physics_lesson.md) | ✓ |
 | ATT_79 | Commitment, Consensus, and Admissibility: The Grand Corpus, Geofinitism, and the Symbolic Separatrix | [PDF](essays/ATT_79_geofinitism_comparative_philosophy.pdf) | [Summary](essays/ATT_79_geofinitism_comparative_philosophy_summary.md) | [Lesson](essays/ATT_79_geofinitism_comparative_philosophy_lesson.md) | ✓ |
 | ATT_80 | Semantic Boundary Markers in Geofinitism | [PDF](essays/ATT_80_semantic_boundary_markers.pdf) | [Summary](essays/ATT_80_semantic_boundary_markers_summary.md) | [Lesson](essays/ATT_80_semantic_boundary_markers_lesson.md) | ✓ |
+| ATT_81 | [Introducing the Functional Symbolic Trajectory: Words, Compression, and the Flow of Meaning in Finite Language](./essays/ATT_81_functional_symbolic_trajectories_summary.md) | ATT_181 | P3, P1 (primary), P2, P5, P4 | Stable | 2026 | ✓ |
 
 
 ## Monographs
@@ -136,6 +141,9 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | M03 | A Nonlinear Dynamical Reconstruction of the Collatz Process via Delay Embedding | [PDF](monographs/M03_collatz_reconstruction.pdf) | [Summary](monographs/M03_collatz_reconstruction_summary.md) | [Lesson](monographs/M03_collatz_reconstruction_lesson.md) | ✓ |
 | M04 | Finite Tractus: The Hidden Geometry of Language and Thought (Part I: Foundations) | [PDF](monographs/M04_finite_tractus_foundations.pdf) | [Summary](monographs/M04_finite_tractus_foundations_summary.md) | [Lesson](monographs/M04_finite_tractus_foundations_lesson.md) | ✓ |
 | M05 | The FSM Conjectures: On Real Numbers, Measurement, and the Silent Promotion of Symbolic Games | [PDF](monographs/M05_fsm_conjectures.pdf) | [Summary](monographs/M05_fsm_conjectures_summary.md) | [Lesson](monographs/M05_fsm_conjectures_lesson.md) | ✓ |
+| M06 | [FSM Information Theory: Symbolic Containment and Functional Trajectories](./monographs/M06_fsm_information_theory_summary.md) | M06-L | P5, P2 (primary), P1, P3, P4 | Working draft | 2026-05-31 | ✓ |
+| M07 | [The Principia Geometrica: Finite Symbolic Mechanics](./monographs/M07_fsm_principia_geo_1_summary.md) | M07-L | P5, P2, P1 (primary), P3, P4 | Stable | 2026 | ✓ |
+| M08 | [The Principia Geometrica: Finite Symbolic Mechanics II — Measured Structures](./monographs/M08_fsm_principia_geo_2_summary.md) | M08-L | P5, P2, P1 (primary), P3, P4 | Working draft | 2026-05 | ✓ |
 ## Stubs
 
 *(none yet)*
