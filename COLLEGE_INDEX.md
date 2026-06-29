@@ -31,6 +31,14 @@ All papers have their canonical summary and lesson in either `college-machine-in
 | P12 | Trajectory-Based Computation: Binary Logic, Ket Evolution, and Finite Symbolic Map Engines | [PDF](papers/P12_trajectory_based_computation.pdf) | [Summary](papers/P12_trajectory_based_computation_summary.md) | [Lesson](papers/P12_trajectory_based_computation_lesson.md) | — |
 | P13 | On Finite Symbolic Instantiation Drag: Translation, Entropy, Energy, and the Cost of Symbolic Model Formation | [PDF](papers/P13_finite_symbolic_drag.pdf) | [Summary](papers/P13_finite_symbolic_drag_summary.md) | [Lesson](papers/P13_finite_symbolic_drag_lesson.md) | — |
 | P14 | Admissibility, Finite Symbols, and the Limits of Measurement | [PDF](papers/P14_measurement_limits.pdf) | [Summary](papers/P14_measurement_limits_summary.md) | [Lesson](papers/P14_measurement_limits_lesson.md) | — |
+| P15 | Takens-Based Transformer for Protein Structure Prediction: A Proof-of-Concept Implementation with Open-Source Code | [PDF](papers/P15_takens_protein_prediction.pdf) | [Summary](papers/P15_takens_protein_prediction_summary.md) | [Lesson](papers/P15_takens_protein_prediction_lesson.md) | — |
+| P16 | Protein-Ligand Affinity as Multiscale Correspondence: A Takens-Based Programme for Sequence-to-Structure and Affinity Modelling — Part 1 | [PDF](papers/P16_protein_binding.pdf) | [Summary](papers/P16_protein_binding_summary.md) | [Lesson](papers/P16_protein_binding_lesson.md) | — |
+| P17 | Protein-Ligand Affinity as Multiscale Correspondence — Part 2: The Construction Signal as a Literal Dynamical Time Series | [PDF](papers/P17_protein_binding_part2.pdf) | [Summary](papers/P17_protein_binding_part2_summary.md) | [Lesson](papers/P17_protein_binding_part2_lesson.md) | — |
+| P18 | From Formal Logic to Functional Symbolic Trajectories: Hilbert, Brouwer, Russell, and the Missing Machine of Representation | [PDF](papers/P18_fsm_hilbert_brouwer.pdf) | [Summary](papers/P18_fsm_hilbert_brouwer_summary.md) | [Lesson](papers/P18_fsm_hilbert_brouwer_lesson.md) | — |
+| P19 | P vs NP and the Missing Axiom of Finite Measurement: A Geofinitist Stress Test of the Clay Formulation | [PDF](papers/P19_fsm_clay_stress_test.pdf) | [Summary](papers/P19_fsm_clay_stress_test_summary.md) | [Lesson](papers/P19_fsm_clay_stress_test_lesson.md) | — |
+| P20 | Takens' Theorem Applies to Discrete Symbol Sequences: A Formal Note on Language as a Dynamical System | [PDF](papers/P20_takens_symbol_application.pdf) | [Summary](papers/P20_takens_symbol_application_summary.md) | [Lesson](papers/P20_takens_symbol_application_lesson.md) | — |
+| P21 | Text Within Text: Functional Symbolic Trajectories, Proof, and the Geofinite Stabilisation of Mathematical Language | [PDF](papers/P21_text_within_text.pdf) | [Summary](papers/P21_text_within_text_summary.md) | [Lesson](papers/P21_text_within_text_lesson.md) | — |
+| P22 | Efficient AI Embedding Compression Using JPEG: A Novel Approach for Performance and Energy Optimization | [PDF](papers/P22_jpeg_early_results.pdf) | [Summary](papers/P22_jpeg_early_results_summary.md) | [Lesson](papers/P22_jpeg_early_results_lesson.md) | — |
 
 ---
 
@@ -130,6 +138,9 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | ATT_79 | Commitment, Consensus, and Admissibility: The Grand Corpus, Geofinitism, and the Symbolic Separatrix | [PDF](essays/ATT_79_geofinitism_comparative_philosophy.pdf) | [Summary](essays/ATT_79_geofinitism_comparative_philosophy_summary.md) | [Lesson](essays/ATT_79_geofinitism_comparative_philosophy_lesson.md) | ✓ |
 | ATT_80 | Semantic Boundary Markers in Geofinitism | [PDF](essays/ATT_80_semantic_boundary_markers.pdf) | [Summary](essays/ATT_80_semantic_boundary_markers_summary.md) | [Lesson](essays/ATT_80_semantic_boundary_markers_lesson.md) | ✓ |
 | ATT_81 | [Introducing the Functional Symbolic Trajectory: Words, Compression, and the Flow of Meaning in Finite Language](./essays/ATT_81_functional_symbolic_trajectories_summary.md) | ATT_181 | P3, P1 (primary), P2, P5, P4 | Stable | 2026 | ✓ |
+| ATT_82 | The Safety Layer: Explicit Initialisation of Functional Symbolic Trajectories | [PDF](essays/ATT_82_trajectory_initialization.pdf) | [Summary](essays/ATT_82_trajectory_initialization_summary.md) | [Lesson](essays/ATT_82_trajectory_initialization_lesson.md) | ✓ |
+| ATT_83 | The Science of Language: From Philosophy to Measurement | [PDF](essays/ATT_83_measurement_of_language.pdf) | [Summary](essays/ATT_83_measurement_of_language_summary.md) | [Lesson](essays/ATT_83_measurement_of_language_lesson.md) | ✓ |
+| ATT_84 | The Axioms of Measured Extent: Geometry, Symbol, and the Generonic Boundary | [PDF](essays/ATT_84_axioms_of_extent.pdf) | [Summary](essays/ATT_84_axioms_of_extent_summary.md) | [Lesson](essays/ATT_84_axioms_of_extent_lesson.md) | ✓ |
 
 
 ## Monographs
@@ -144,6 +155,20 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | M06 | [FSM Information Theory: Symbolic Containment and Functional Trajectories](./monographs/M06_fsm_information_theory_summary.md) | M06-L | P5, P2 (primary), P1, P3, P4 | Working draft | 2026-05-31 | ✓ |
 | M07 | [The Principia Geometrica: Finite Symbolic Mechanics](./monographs/M07_fsm_principia_geo_1_summary.md) | M07-L | P5, P2, P1 (primary), P3, P4 | Stable | 2026 | ✓ |
 | M08 | [The Principia Geometrica: Finite Symbolic Mechanics II — Measured Structures](./monographs/M08_fsm_principia_geo_2_summary.md) | M08-L | P5, P2, P1 (primary), P3, P4 | Working draft | 2026-05 | ✓ |
+| M09 | [Geofinitism: Finite Symbolic Mechanics and the Foundations of Finite Analysis](./monographs/M09_fsm_finite_analysis_summary.md) | [Lesson](./monographs/M09_fsm_finite_analysis_lesson.md) | [PDF](./monographs/M09_fsm_finite_analysis.pdf) | P1, P2, P3, P4, P5 | Working seed | ✓ |
+---
+
+## Pensées
+
+| ID | Title | PDF | Summary | Lesson | Here |
+|---|---|---|---|---|---|
+| PE01 | The Finite Practice of Mathematics: Representation, Experimentation, and Iteration | [PDF](pensees/PE01_mathemetical_experiments.pdf) | [Summary](pensees/PE01_mathemetical_experiments_summary.md) | — | ✓ |
+| PE02 | Geometric Transformers for Physiological Time Series Prediction: A Phase-Space Embedding Approach | [PDF](pensees/PE02_tbt_time_series_ analysis.pdf) | [Summary](pensees/PE02_tbt_time_series_ analysis_summary.md) | — | ✓ |
+| PE03 | Symbolic Trajectories and Fractal Geodesics: Toward a Geofinite Metrology of Language | [PDF](pensees/PE03_ geofinite_metrology.pdf) | [Summary](pensees/PE03_ geofinite_metrology_summary.md) | — | ✓ |
+| PE04 | Charge-Mass, B, and the Decompression of Electromagnetic Language | [PDF](pensees/PE04_charge-mass_B_language.pdf) | [Summary](pensees/PE04_charge-mass_B_language_summary.md) | — | ✓ |
+| PE05 | Semantic Handedness and Direction-Bearing Nouns | [PDF](pensees/PE05_semantic_orientation.pdf) | [Summary](pensees/PE05_semantic_orientation_summary.md) | — | ✓ |
+| PE06 | π in Finite Symbolic Mechanics: A Constructive Geometric Account from Measured Spherical Packing | [PDF](pensees/PE06_fsm_on_pi.pdf) | [Summary](pensees/PE06_fsm_on_pi_summary.md) | — | ✓ |
+
 ## Stubs
 
 *(none yet)*
