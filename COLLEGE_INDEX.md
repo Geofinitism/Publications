@@ -39,6 +39,8 @@ All papers have their canonical summary and lesson in either `college-machine-in
 | P20 | Takens' Theorem Applies to Discrete Symbol Sequences: A Formal Note on Language as a Dynamical System | [PDF](papers/P20_takens_symbol_application.pdf) | [Summary](papers/P20_takens_symbol_application_summary.md) | [Lesson](papers/P20_takens_symbol_application_lesson.md) | — |
 | P21 | Text Within Text: Functional Symbolic Trajectories, Proof, and the Geofinite Stabilisation of Mathematical Language | [PDF](papers/P21_text_within_text.pdf) | [Summary](papers/P21_text_within_text_summary.md) | [Lesson](papers/P21_text_within_text_lesson.md) | — |
 | P22 | Efficient AI Embedding Compression Using JPEG: A Novel Approach for Performance and Energy Optimization | [PDF](papers/P22_jpeg_early_results.pdf) | [Summary](papers/P22_jpeg_early_results_summary.md) | [Lesson](papers/P22_jpeg_early_results_lesson.md) | — |
+| P23 | The Turing Machine as Finite Symbolic Trajectory: A Geofinite Reinterpretation | [PDF](papers/P23_turing_machine.pdf) | [Summary](papers/P23_turing_machine_summary.md) | [Lesson](papers/P23_turing_machine_lesson.md) | ✓ |
+| P24 | The Ruliad, Gödel, Lorenz, and the Missing Self-Model of Language | [PDF](papers/P24_language_and_wolfram.pdf) | [Summary](papers/P24_language_and_wolfram_summary.md) | [Lesson](papers/P24_language_and_wolfram_lesson.md) | ✓ |
 
 ---
 
@@ -48,6 +50,7 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 
 | ID | Title | PDF | Summary | Lesson | Primary |
 |---|---|---|---|---|---|
+| ATT_00 | Introducing Geofinitism: Foundations and Intent | [PDF](essays/ATT_00_introduction_and_intent.pdf) | [Summary](essays/ATT_00_introduction_and_intent_summary.md) | — | ✓ |
 | ATT_01 | Finite Models of Words: Words as Transducers | [PDF](essays/ATT_01_finite_models_of_words.pdf) | [Summary](essays/ATT_01_finite_models_of_words_summary.md) | [Lesson](essays/ATT_01_finite_models_of_words_lesson.md) | ✓ |
 | ATT_02 | Semantic Uncertainty | [PDF](essays/ATT_02_semantic_uncertainty.pdf) | [Summary](essays/ATT_02_semantic_uncertainty_summary.md) | [Lesson](essays/ATT_02_semantic_uncertainty_lesson.md) | ✓ |
 | ATT_03 | Tranfictors | [PDF](essays/ATT_03_tranfictors.pdf) | [Summary](essays/ATT_03_tranfictors_summary.md) | [Lesson](essays/ATT_03_tranfictors_lesson.md) | ✓ |
@@ -141,6 +144,8 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | ATT_82 | The Safety Layer: Explicit Initialisation of Functional Symbolic Trajectories | [PDF](essays/ATT_82_trajectory_initialization.pdf) | [Summary](essays/ATT_82_trajectory_initialization_summary.md) | [Lesson](essays/ATT_82_trajectory_initialization_lesson.md) | ✓ |
 | ATT_83 | The Science of Language: From Philosophy to Measurement | [PDF](essays/ATT_83_measurement_of_language.pdf) | [Summary](essays/ATT_83_measurement_of_language_summary.md) | [Lesson](essays/ATT_83_measurement_of_language_lesson.md) | ✓ |
 | ATT_84 | The Axioms of Measured Extent: Geometry, Symbol, and the Generonic Boundary | [PDF](essays/ATT_84_axioms_of_extent.pdf) | [Summary](essays/ATT_84_axioms_of_extent_summary.md) | [Lesson](essays/ATT_84_axioms_of_extent_lesson.md) | ✓ |
+| ATT_85 | The Instrument Came First: Port-Royal, Language, Measurement, and the Functional Symbolic Trajectory | [PDF](essays/ATT_85_port_royal.pdf) | [Summary](essays/ATT_85_port_royal_summary.md) | [Lesson](essays/ATT_85_port_royal_lesson.md) | ✓ |
+| ATT_86 | On Geofinitism | [PDF](essays/ATT_86_on_geofinitism.pdf) | [Summary](essays/ATT_86_on_geofinitism_summary.md) | [Lesson](essays/ATT_86_on_geofinitism_lesson.md) | ✓ |
 
 
 ## Monographs
@@ -156,6 +161,11 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | M07 | [The Principia Geometrica: Finite Symbolic Mechanics](./monographs/M07_fsm_principia_geo_1_summary.md) | M07-L | P5, P2, P1 (primary), P3, P4 | Stable | 2026 | ✓ |
 | M08 | [The Principia Geometrica: Finite Symbolic Mechanics II — Measured Structures](./monographs/M08_fsm_principia_geo_2_summary.md) | M08-L | P5, P2, P1 (primary), P3, P4 | Working draft | 2026-05 | ✓ |
 | M09 | [Geofinitism: Finite Symbolic Mechanics and the Foundations of Finite Analysis](./monographs/M09_fsm_finite_analysis_summary.md) | [Lesson](./monographs/M09_fsm_finite_analysis_lesson.md) | [PDF](./monographs/M09_fsm_finite_analysis.pdf) | P1, P2, P3, P4, P5 | Working seed | ✓ |
+| M10 | [From Measured Extent to Alphonic Chains: On the Bead-Basis of Geofinite Proof](./monographs/M10_chains_and_proof_summary.md) | [Lesson](./monographs/M10_chains_and_proof_lesson.md) | [PDF](./monographs/M10_chains_and_proof.pdf) | P1, P2, P3, P4, P5 | Working draft | ✓ |
+| M11 | [A Systems and Network-Theoretic Framework for Large Language Models and Compound AI Systems](./monographs/M11_llm_systems_summary.md) | [Lesson](./monographs/M11_llm_systems_lesson.md) | [PDF](./monographs/M11_llm_systems.pdf) | P2, P3, P4 | Working draft | ✓ |
+| M12 | [The Alphonic Foundation of Measured Geometry: A Geofinite Reconstruction of the Point](./monographs/M12_foundations_summary.md) | [Lesson](./monographs/M12_foundations_lesson.md) | [PDF](./monographs/M12_foundations.pdf) | P1, P2, P5 | Draft monograph | ✓ |
+| M13 | [The Transform Is Another Trajectory: Mathematical Inscription, Computational Unfolding, and Geometry in Finite Symbolic Mechanics](./monographs/M13_matrix_trajectories_summary.md) | [Lesson](./monographs/M13_matrix_trajectories_lesson.md) | [PDF](./monographs/M13_matrix_trajectories.pdf) | P3, P2, P4 | Initial status | ✓ |
+| M14 | [On Symbolic Registration: Measurement, Re-registration, and the Generonic Foundations of Language](./monographs/M14_symbolic_registration_summary.md) | [Lesson](./monographs/M14_symbolic_registration_lesson.md) | [PDF](./monographs/M14_symbolic_registration.pdf) | P4, P2, P3 | Full draft | ✓ |
 ---
 
 ## Pensées
@@ -168,6 +178,11 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | PE04 | Charge-Mass, B, and the Decompression of Electromagnetic Language | [PDF](pensees/PE04_charge-mass_B_language.pdf) | [Summary](pensees/PE04_charge-mass_B_language_summary.md) | — | ✓ |
 | PE05 | Semantic Handedness and Direction-Bearing Nouns | [PDF](pensees/PE05_semantic_orientation.pdf) | [Summary](pensees/PE05_semantic_orientation_summary.md) | — | ✓ |
 | PE06 | π in Finite Symbolic Mechanics: A Constructive Geometric Account from Measured Spherical Packing | [PDF](pensees/PE06_fsm_on_pi.pdf) | [Summary](pensees/PE06_fsm_on_pi_summary.md) | — | ✓ |
+| PE07 | Observer, Moving Measurement Windows, and Symbolic Burst Dynamics | [PDF](pensees/PE07_observer_frames.pdf) | [Summary](pensees/PE07_observer_frames_summary.md) | — | ✓ |
+| PE08 | Measurement-First World Models, Takens-Based Transformers, and Trajectory Computation | [PDF](pensees/PE08_world_models.pdf) | [Summary](pensees/PE08_world_models_summary.md) | — | ✓ |
+| PE09 | Shannon, the Perfect Edge, and the Hidden Epoch-Based Attractor | [PDF](pensees/PE09_perfect_edge.pdf) | [Summary](pensees/PE09_perfect_edge_summary.md) | — | ✓ |
+| PE10 | Models, Measurement, and the Language That Holds Them | [PDF](pensees/PE10_models_language.pdf) | [Summary](pensees/PE10_models_language_summary.md) | — | ✓ |
+| PE11 | Finite Symbolic Extent and the Reappearance of Three | [PDF](pensees/PE11_cubic_powers.pdf) | [Summary](pensees/PE11_cubic_powers_summary.md) | — | ✓ |
 
 ## Stubs
 
