@@ -1,6 +1,5 @@
-# College of Attralucian Studies — Content Index
+# Publications - Kevin R. Haylett - School of Geofinitism — Content Index
 
-**College:** Attralucian Studies  
 **Organisation:** School of Geofinitism  
 **Last updated:** 2026-05-14  
 **Total papers:** 11 (0 primary, 11 secondary) | **Total essays:** 64+ (all primary — this college is canonical for all essays)
