@@ -1,5 +1,6 @@
-# Publications - Kevin R. Haylett - School of Geofinitism — Content Index
+# College of Attralucian Studies — Content Index
 
+**College:** Attralucian Studies  
 **Organisation:** School of Geofinitism  
 **Last updated:** 2026-05-14  
 **Total papers:** 11 (0 primary, 11 secondary) | **Total essays:** 64+ (all primary — this college is canonical for all essays)
@@ -40,6 +41,7 @@ All papers have their canonical summary and lesson in either `college-machine-in
 | P22 | Efficient AI Embedding Compression Using JPEG: A Novel Approach for Performance and Energy Optimization | [PDF](papers/P22_jpeg_early_results.pdf) | [Summary](papers/P22_jpeg_early_results_summary.md) | [Lesson](papers/P22_jpeg_early_results_lesson.md) | — |
 | P23 | The Turing Machine as Finite Symbolic Trajectory: A Geofinite Reinterpretation | [PDF](papers/P23_turing_machine.pdf) | [Summary](papers/P23_turing_machine_summary.md) | [Lesson](papers/P23_turing_machine_lesson.md) | ✓ |
 | P24 | The Ruliad, Gödel, Lorenz, and the Missing Self-Model of Language | [PDF](papers/P24_language_and_wolfram.pdf) | [Summary](papers/P24_language_and_wolfram_summary.md) | [Lesson](papers/P24_language_and_wolfram_lesson.md) | ✓ |
+| P25 | 1 + 1 ∼ 2: A Geofinite Proof from Functional Symbolic Trajectories and the Basin of Language | [PDF](papers/P25_on_one_plus_one.pdf) | [Summary](papers/P25_on_one_plus_one_summary.md) | [Lesson](papers/P25_on_one_plus_one_lesson.md) | ✓ |
 
 ---
 
@@ -165,6 +167,9 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | M12 | [The Alphonic Foundation of Measured Geometry: A Geofinite Reconstruction of the Point](./monographs/M12_foundations_summary.md) | [Lesson](./monographs/M12_foundations_lesson.md) | [PDF](./monographs/M12_foundations.pdf) | P1, P2, P5 | Draft monograph | ✓ |
 | M13 | [The Transform Is Another Trajectory: Mathematical Inscription, Computational Unfolding, and Geometry in Finite Symbolic Mechanics](./monographs/M13_matrix_trajectories_summary.md) | [Lesson](./monographs/M13_matrix_trajectories_lesson.md) | [PDF](./monographs/M13_matrix_trajectories.pdf) | P3, P2, P4 | Initial status | ✓ |
 | M14 | [On Symbolic Registration: Measurement, Re-registration, and the Generonic Foundations of Language](./monographs/M14_symbolic_registration_summary.md) | [Lesson](./monographs/M14_symbolic_registration_lesson.md) | [PDF](./monographs/M14_symbolic_registration.pdf) | P4, P2, P3 | Full draft | ✓ |
+| M15 | [From Representation to Geometry: Sequential Computation, Registration, and Finite Symbolic Mechanics](./monographs/M15_matrices_as_finite_symbolic_trajectories_summary.md) | [Lesson](./monographs/M15_matrices_as_finite_symbolic_trajectories_lesson.md) | [PDF](./monographs/M15_matrices_as_finite_symbolic_trajectories.pdf) | P1, P2, P3 | Full draft | ✓ |
+| M16 | [The Takens-Based Transformer as a General Trajectory Classification Architecture](./monographs/M16_tbt_trajectory_classification_summary.md) | [Lesson](./monographs/M16_tbt_trajectory_classification_lesson.md) | [PDF](./monographs/M16_tbt_trajectory_classification.pdf) | P2, P3 | Research architecture | ✓ |
+| M17 | [Mathematics After Measurement: Symbolic Rules, Finite Registration, and the Limits of Abstract Topology](./monographs/M17_measurement_first_mathematics_summary.md) | [Lesson](./monographs/M17_measurement_first_mathematics_lesson.md) | [PDF](./monographs/M17_measurement_first_mathematics.pdf) | P1, P2, P5 | Foundational research position | ✓ |
 ---
 
 ## Pensées
@@ -182,6 +187,9 @@ This college is the canonical home of all Attralucian essays. Summary and lesson
 | PE09 | Shannon, the Perfect Edge, and the Hidden Epoch-Based Attractor | [PDF](pensees/PE09_perfect_edge.pdf) | [Summary](pensees/PE09_perfect_edge_summary.md) | — | ✓ |
 | PE10 | Models, Measurement, and the Language That Holds Them | [PDF](pensees/PE10_models_language.pdf) | [Summary](pensees/PE10_models_language_summary.md) | — | ✓ |
 | PE11 | Finite Symbolic Extent and the Reappearance of Three | [PDF](pensees/PE11_cubic_powers.pdf) | [Summary](pensees/PE11_cubic_powers_summary.md) | — | ✓ |
+| PE12 | The Historical Trajectory of the Halted Noun | [PDF](pensees/PE12_halted_noun.pdf) | [Summary](pensees/PE12_halted_noun_summary.md) | — | ✓ |
+| PE13 | The Temporalities of Meaning, Nominal Fixity, and the Return to Gestural Consensus | [PDF](pensees/PE13_ramus_to_lorenz.pdf) | [Summary](pensees/PE13_ramus_to_lorenz_summary.md) | — | ✓ |
+| PE14 | Geofinitism and the Language of Light: Measurement, Distinction and Dynamical Systems | [PDF](pensees/PE14_on_light.pdf) | [Summary](pensees/PE14_on_light_summary.md) | — | ✓ |
 
 ## Stubs
 
