@@ -2,7 +2,7 @@
 
 **College:** Attralucian Studies  
 **Organisation:** School of Geofinitism  
-**Last updated:** 2026-05-14  
+**Last updated:** 2026-10-16  
 **Total papers:** 11 (0 primary, 11 secondary) | **Total essays:** 64+ (all primary — this college is canonical for all essays)
 
 This file is the complete content registry for the College of Attralucian Studies. Every document in the college is listed with direct links to all three associated files. Use `README.md` for mission context, curated reading orders, and key concept tables.
